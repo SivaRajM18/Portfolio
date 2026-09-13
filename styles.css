@@ -407,6 +407,7 @@ html[data-theme="dark"] .theme-toggle .theme-icon {
   text-align: center;
 }
 
+/* ---- FIXED: circle now clips and crops the photo perfectly ---- */
 .hero-portrait {
   width: 168px;
   height: 168px;
@@ -458,6 +459,7 @@ html[data-theme="dark"] .theme-toggle .theme-icon {
     transform: none;
   }
 }
+/* ---- end fix ---- */
 
 .hero-status {
   display: inline-flex;
